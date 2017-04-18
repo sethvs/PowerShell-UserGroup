@@ -1083,5 +1083,5 @@ fb.com/inpowershell
 vk.com/inpowershell
 
 #GitHub
-github.com/sethvs
+github.com/sethvs/PowerShell-UserGroup
 
